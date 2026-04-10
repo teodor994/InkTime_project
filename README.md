@@ -1,5 +1,5 @@
 Nume: Vica Teodor Andrei
-Grupa: 311CB
+Grupa: 331CB
 
 # InkTime Project
 
